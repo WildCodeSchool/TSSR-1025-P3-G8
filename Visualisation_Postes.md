@@ -1,5 +1,5 @@
 
-## Nombre de postes réparties par Départements, Services et Fonctions  de l'entreprise Pharmgreen:
+## Nombre de postes réparties par Départements, Services et Fonctions  de l'entreprise Pharmgreen :
 
 - Communication : 20 postes dont
 	- 1 poste Direction Communication       __*N+1 Gilles Faure - CEO*__
